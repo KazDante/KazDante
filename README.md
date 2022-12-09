@@ -1,0 +1,4 @@
+- Hi my name is @KazDante
+- I started learning Python programming a month ago.
+- I don’t know which area I will go into, but the example has always been working with the WEB and other things.
+- I heard that on GitHub you can create some kind of portfolio for a job that interests me, so I'm here.
